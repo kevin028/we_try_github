@@ -1,1 +1,3 @@
 # we_try_github
+
+Adding some texts in here...
